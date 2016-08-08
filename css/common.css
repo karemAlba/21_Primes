@@ -1,0 +1,24 @@
+ul{
+	text-decoration: none;
+	font-size: 18px;
+}/*Estilos del menu*/
+
+li{
+	text-decoration: none;
+	display: inline-block;
+	padding: 1%;
+	padding-top: 4%;
+}/*Estilos del menu*/
+
+.bgMenu{
+	background-image: url(../img/background/hero.jpg);
+	height: 690px;
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position:top;
+}/*Estilos del menu*/
+
+.imgtamaño{
+	width: 50%;
+	height: 45%;
+}
