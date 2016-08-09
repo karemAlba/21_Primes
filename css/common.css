@@ -6,7 +6,7 @@ ul{
 li{
 	text-decoration: none;
 	display: inline-block;
-	padding: 1%;
+	padding: 3%;
 	padding-top: 4%;
 }/*Estilos del menu*/
 
@@ -16,9 +16,14 @@ li{
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-position:top;
+	opacity: 0.8;
 }/*Estilos del menu*/
 
 .imgtamaño{
-	width: 50%;
-	height: 45%;
+	width: 65%;
+}/*More Features imagen*/
+
+.color-black{
+	color: black;
+	font-size: 18px;
 }
