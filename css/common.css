@@ -27,3 +27,11 @@ li{
 	color: black;
 	font-size: 18px;
 }
+
+.imgCustomer{
+	width: 10%;
+}
+
+.imgcircular{
+	border-radius: 200%;
+}
